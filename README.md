@@ -1,5 +1,5 @@
 #  Constraint Satisfaction Problem Solver
-## CS421
+## CS452
 
 ## Author(s):
 
@@ -50,7 +50,7 @@ _Valid Arguments:_
 ## How the software was tested
 
 Testing was completed by using outlier-like input arguments in order to stress
-test thread synchronization capabilities.
+test constraint-satisfaction/backtracking capabilities.
 
 
 ## Known bugs and problem areas
