@@ -21,12 +21,12 @@ original assignment description. This file is called _README2.pdf_.
 ## How to build the software
 
 Add this project to any Java IDE, it will automatically compile.
-If this does not work 'javac *' can be used.
+If this does not work '''javac -d bin -sourcepath src src/*''' on the command line can be used.
 
 
 ## How to use the software
 
-Execute the command 'java Solve x y' on a command line in the directory, or run from the IDE with runtime arguments.
+Execute the command '''java -cp bin; Solve x y''' on a command line in the directory, or run from the IDE with runtime arguments.
 
 _Valid Arguments:_
 
