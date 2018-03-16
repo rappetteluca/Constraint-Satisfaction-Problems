@@ -26,7 +26,7 @@ This file is called _README2.pdf_.
 Add this project to any Java IDE, it will automatically compile.
 If this does not work execute the command below on the command line to build the project.
 
-'''bash
+'''
 javac -d bin -sourcepath src src/*
 '''
 
@@ -36,7 +36,7 @@ javac -d bin -sourcepath src src/*
 Execute the command below on a command line in the directory, or run from the 
 IDE with runtime arguments.
 
-'''bash
+'''
 java -cp bin; Solve x y
 '''
 
