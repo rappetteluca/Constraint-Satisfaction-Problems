@@ -16,7 +16,7 @@ A program that implements a backtracking algorithm over a crossword puzzle.
 Given a dictionary and a set of constraints, the program will fill the crossword 
 with words that satisfy the crossword puzzle. 
 This program was assigned in the AI course. 
-A more in depth description is attached with the original assignment description. 
+A more in depth description is attached, it is the original assignment description. 
 
 This file is called _README2.pdf_.
 
