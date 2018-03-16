@@ -43,7 +43,7 @@ java -cp bin; Solve x y
 _Valid Arguments:_
 
 - The first arg is required, __x__ is the crossword puzzle file with extension included.
-- The second arg is required __y__ is the dictionary file with extension included.
+- The second arg is required, __y__ is the dictionary file with extension included.
 - File formats are described in _README2.pdf_.
 
 
