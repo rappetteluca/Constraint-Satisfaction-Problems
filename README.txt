@@ -1,0 +1,1 @@
+This Crossword Solver using a CSP algorithm is not flawless, but I thought I'd share it anyways for others to try build a model from if they so desire. The actual CSP algorithm implemented is sound but I still have errors in regards to enforcing a constraint without shutting it out of the entire domain of values when there are many constraints on one space.
